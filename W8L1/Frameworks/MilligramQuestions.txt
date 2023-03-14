@@ -1,0 +1,11 @@
+1 - Size of heading fonts
+    h1 - 4.6rem/46px
+    h2 - 3.6rem/36px
+2 - Form fields take up the full width of the container
+    box-sizing: inherit?
+3 - Form labels and fields appear below each other
+    <label> then <input> for each label then field.
+4 - Labels are closer to their own field than the field above
+    changes the margin-bottom to 0.5rem rather then the default
+5 - Size and centering of everything in a container on wide enough screens
+    position relative, padding 0 2.0 rem (range of padding) ?
